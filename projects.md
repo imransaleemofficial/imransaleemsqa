@@ -5,11 +5,12 @@ permalink: /projects/
 
 ## Projects
 
-### Manual Test Plan
-**Description:** A comprehensive test plan covering web and mobile flows, regression and PWA scenarios, cross-browser checks, and edge-case handling.  
-- **Figma:** [Test Plan Design](https://www.figma.com/file/YourFigmaFileID/Test-Plan-Design)  
-- **Live Site:** [Documentation Site](https://imransaleemofficial.github.io/manual-test-cases/)  
-- **Documents:** [Download Test Plan (PDF)](https://github.com/imransaleemofficial/manual-test-cases/raw/main/TestPlan.pdf)  
+### Mental Edge AI
+**Description:** Mental Edge AI is an AI-driven cognitive performance platform designed to strengthen mental resilience and focus. It leverages adaptive machine-learning algorithms to deliver personalized brain-training exercises, mindfulness sessions, and real-time mood analyses. By continuously learning from user interactions and biometric inputs (like heart-rate variability), it fine-tunes its recommendations—helping professionals, athletes, and students optimize productivity, reduce stress, and track their mental well-being over time.
+
+- **Live Site:** [mentaledge.ai](https://mentaledge.ai/)  
+- **Automation:** [Cypress Test Suite](https://drive.google.com/drive/folders/1EI_V6nZOnZT3tkMTWHNHvvxu4ozoV4av?usp=sharing)  
+
 
 ---
 
