@@ -1,5 +1,5 @@
 ---
-title: Home
+title: About
 permalink: /
 ---
 # Hi, I’m Imran Saleem  
